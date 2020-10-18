@@ -16,6 +16,7 @@ public class Point {
         System.out.println("6. " + sqrt);
         double rsl = sqrt;
         return rsl;
+        // qaz
     }
     public static void main(String[] args) {
         double result = Point.distance(0, 0, 2, 0);
