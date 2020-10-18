@@ -2,7 +2,7 @@ package ru.job4j.condition.ru.job4j.condition;
 
 public class TrgArea {
     public static double area(double a, double b, double c) {
-        double p = a + b + c;
+        double p = (a + b + c)/2;
         System.out.println("p = " + p);
         double pa = p - a;
         double pb = p - b;
