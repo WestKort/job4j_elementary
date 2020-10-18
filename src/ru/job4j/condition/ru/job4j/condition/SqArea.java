@@ -8,6 +8,7 @@ public class SqArea {
         System.out.println(" L = " + L);
         double rsl = L * h;
         return rsl;
+        //qwa
     }
     public static void main(String[] args) {
         double result1 = SqArea.square(6,2);
