@@ -20,10 +20,6 @@ public class Point {
     }
     public static void main(String[] args) {
         double result = Point.distance(0, 0, 2, 0);
-        int x1 = 0;
-        int x2 = 2;
-        double y1 = 0;
-        double y2 = 0;
         System.out.println("1. " + result);
         System.out.println("result (0, 0) to (2, 0) " + result);
     }
