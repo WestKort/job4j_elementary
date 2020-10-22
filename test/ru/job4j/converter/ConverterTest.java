@@ -12,7 +12,7 @@ public class ConverterTest {
         int out = Converter.rubleToDollar(in);
         Assert.assertEquals(expected, out);
     }
-
+//
     @Test
     public void whenConvert140RblThen2Euro() {
         int in = 140;
